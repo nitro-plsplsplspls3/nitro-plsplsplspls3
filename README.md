@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nitro-plsplsplspls3
+- 👀 I’m interested in pizza and making small games
+- 🌱 I’m currently learning coding with lua
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me VIadimer#7101
